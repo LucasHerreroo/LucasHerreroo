@@ -1,4 +1,4 @@
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">AI Sales</h3>
 
 <p align="center">
   Building Intelligent Systems<br/>
